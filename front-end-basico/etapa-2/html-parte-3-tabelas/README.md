@@ -35,6 +35,7 @@ Criacao de tabelas semanticas com cabecalho, corpo e boas praticas de acessibili
 3. Cadastre pelo menos 6 alunos (6 linhas no corpo).
 4. Preencha notas numericas e calcule a media manualmente antes de inserir.
 5. Use uma ultima linha para resumo com a media geral da turma.
+6. **IMPORTANTE:** Utilize as tags semânticas `thead`, `tbody` e `tfoot`
 
 ### Regras de validacao
 - Todo cabecalho deve usar `th` (nao `td`).
