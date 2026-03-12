@@ -9,7 +9,7 @@ Aplicar HTML e CSS para montar uma landing page com chamada para acao (CTA).
 ### Projeto: Landing page de inscricao para minicurso gratuito
 
 ### Requisitos obrigatorios
-1. Crie as secoes: `header`, hero, beneficios, prova social, formulario e `footer`.
+1. Crie as secoes: `header`, hero (primeira sessão da página), beneficios, prova social, formulario e `footer`.
 2. No hero, inclua titulo forte, subtitulo e 1 CTA principal visivel sem rolagem.
 3. Em beneficios, apresente 3 cards com titulo e descricao curta.
 4. Em prova social, inclua 2 depoimentos ou 3 metricas (ex.: alunos, aulas, avaliacao).
