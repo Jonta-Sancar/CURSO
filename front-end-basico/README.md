@@ -30,16 +30,16 @@ E-apostila inicial do curso, publicada em Markdown com estrutura de diretorios a
 - [CSS (parte 6) - Displays grid](./etapa-6/css-parte-6-displays-grid/)
 
 ## Etapa 7
+- [CSS (parte 11) - Media Queries](./etapa-9/css-parte-11-media-queries/)
+- [CSS (parte 12) - @import](./etapa-9/css-parte-12-import/)
 - [CSS (parte 9) - pseudo-classes e pseudo-elementos](./etapa-7/css-parte-9-pseudo-classes-e-pseudo-elementos/)
-- [CSS (parte 7) - position](./etapa-7/css-parte-7-position/)
 - [CSS (parte 8) - Overflow](./etapa-7/css-parte-8-overflow/)
 
 ## Etapa 8
-- [CSS (parte 10) - Animations](./etapa-8/css-parte-10-animations/)
+- [CSS (parte 7) - position](./etapa-7/css-parte-7-position/)
 
 ## Etapa 9
-- [CSS (parte 11) - Media Queries](./etapa-9/css-parte-11-media-queries/)
-- [CSS (parte 12) - @import](./etapa-9/css-parte-12-import/)
+- [CSS (parte 10) - Animations](./etapa-8/css-parte-10-animations/)
 
 ## Projeto pratico
 - [Landing Page (CTA - Captura de Lead)](./landing-page-cta-captura-de-lead/)
