@@ -130,5 +130,6 @@ Crie um script PHP que coleta dados do usuario pelo terminal e exibe um resumo.
 Adicione uma variavel `$ativo` do tipo `bool` e outra `$observacao` com valor `null`. Use `var_dump` em ambas e explique em um comentario PHP o que cada saida significa.
 
 ## Navegacao
+- [Aula anterior: GIT (parte 3) - Basico 3: fetch, pull, push](../../etapa-1/git-parte-3-basico-3-fetch-pull-push/)
 - [Voltar para Logica](../../)
 - [Proxima aula: PHP (parte 2) - Operadores](../php-parte-2-operadores/)

@@ -78,7 +78,7 @@ Retornam `true` ou `false`.
 | Operador | Significado | Exemplo |
 |----------|-------------|---------|
 | `&&` ou `and` | E logico | `$a && $b` |
-| `\|\|` ou `or` | OU logico | `$a \|\| $b` |
+| `||` ou `or` | OU logico | `$a || $b` |
 | `!` | Negacao | `!$a` |
 
 ```php
