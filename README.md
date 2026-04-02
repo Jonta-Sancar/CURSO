@@ -4,6 +4,7 @@ Modelo de e-apostilas em Markdown para publicacao no GitHub/GitHub Pages.
 
 ## Modulos disponiveis
 - [Front-end Basico](./front-end-basico/)
+- [Logica](./php-logica/)
 
 ## Convencoes de estrutura
 - Um diretorio por modulo (`front-end-basico`, etc).
