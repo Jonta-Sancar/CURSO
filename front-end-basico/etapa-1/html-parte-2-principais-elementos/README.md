@@ -14,7 +14,7 @@ Uso dos elementos mais comuns para texto, links, imagens e organizacao de conteu
 <p>Este paragrafo explica o conteudo da aula.</p>
 
 <!-- Link -->
-<a href="https://coude-escola.github.io/docs/">Abrir documentacao</a>
+<a href="https://jonta-sancar.github.io/CURSO/">Abrir documentacao</a>
 
 <!-- Imagem -->
 <img src="assets/logo.png" alt="Logo do projeto">
@@ -68,7 +68,7 @@ Uso dos elementos mais comuns para texto, links, imagens e organizacao de conteu
 
   <p>
     Material complementar:
-    <a href="https://coude-escola.github.io/docs/">Acessar docs</a>
+    <a href="https://jonta-sancar.github.io/CURSO/">Acessar docs</a>
   </p>
 
   <img src="assets/trilha.png" alt="Mapa da trilha de estudos">
