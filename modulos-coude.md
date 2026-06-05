@@ -127,22 +127,6 @@ colunas.
 
 ---
 
-# Modulo - POO
-## Etapa 1
-- PHP (parte 15) - Pilares POO
-- PHP (parte 16) - Getters e Setters
-- PHP (parte 17) - Modificadores de acesso
-- PHP (parte 18) - Propriedades e Métodos estáticos
-
-## Etapa 2
-- PHP (parte 19) - Interfaces
-- PHP (parte 20) - Classes abstratas e traits
-
-## Etapa 3
-- PHP (parte 21) - Erros e exceções (try, catch, finally)
-
----
-
 # Modulo - Composer, MVC e boas práticas
 ## Etapa 1
 - PHP (parte 22) - Composer (init, require, remove, update, dump-update)
